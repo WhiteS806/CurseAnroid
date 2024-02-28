@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">Cпортивный помощник</string>
+    <string name="home">Меню</string>
+    <string name="fitness">Фитнес</string>
+    <string name="profile">Профиль</string>
+    <string name="unit">См</string>
+    <string name="female_text">Женский</string>
+    <string name="age">Возраст</string>
+    <string name="start_height">170</string>
+    <string name="start_weight">55</string>
+    <string name="start_age">22</string>
+    <string name="image">Изображение</string>
+    <string name="height">Рост</string>
+    <string name="calculate_your_bmi">Рассчитать ИМТ</string>
+    <string name="weight">Вес (кг)</string>
+    <string name="male">Мужской</string>
+    <string name="login">Вход</string>
+    <string name="splash_url">https://lottiefiles.com/24366-workout-monkey-stay-healthy</string>
+    <string name="quote3">Через год вы можете пожалеть, что не начали сегодня.</string>
+    <string name="push_up">Отжимания — простое и эффективное упражнение с собственным весом, которое помогает укрепить верхнюю часть тела и корпус.</string>
+    <string name="pull_up">Подтягивания — это движение закрытой цепи, при котором тело подвешивается на руках и поднимается вверх.</string>
+    <string name="squats">Упражнение на силу, при котором спортсмен опускает бедра из стоячего положения, а затем вновь встает.</string>
+    <string name="t_plank">Внутреннее упражнение для ядра, которое помогает сжигать жир и увеличивать силу корпуса.</string>
+    <string name="dead_bug_">Мертвая клоповая улитка — упражнение с собственным весом, направленное на мышцы живота.</string>
+    <string name="skipping">Пользователь прыгает, избегая входящего скакалки, чтобы увеличить выносливость, и это служит разминкой.</string>
+    <string name="heavy_squat">Силовое упражнение для нижней части тела, выполняемое с использованием грузов для улучшения ног, икр, бедер.</string>
+    <string name="split_jump">Разделенные прыжки — плиометрическое упражнение, которое укрепляет ягодицы и мышцы ног.</string>
+    <string name="yoga_v">Поза Дерево — балансирующая асана.</string>
+    <string name="cobrasana">Мягкая гибкая прогибка, выполняемая в положении лицом вниз, которая согревает и укрепляет позвоночник, одновременно открывая грудь.</string>
+    <string name="pranayama">Практика пранаямы включает дыхательные упражнения и паттерны.</string>
+    <string name="yogasana">Эта асана — это медитация о решимости и настойчивости, а также об обязательстве.</string>
+    <string name="utkatasana1">Это укрепляющая и нагревающая асана.</string>
+    <string name="sliding_text">Каждый день — это шанс. Не забывайте пить воду и оставаться увлажненным.</string>
+    <string name="title_activity_diet">Диета</string>
+    <string name="next">Далее</string>
+    <string name="previous">Предыдущий</string>
+    <string name="your_bmi_category_is">Ваша категория ИМТ</string>
+    <string name="recalculate_your_bmi">ПЕРЕСЧИТАТЬ ВАШ ИМТ</string>
+    <string name="correct_tick">галочка</string>
+    <string name="gender">Пол</string>
+    <string name="_22">22</string>
+    <string name="workouts">Тренировки</string>
+    <string name="push_ups">Отжимания</string>
+    <string name="pull_ups">Подтягивания</string>
+    <string name="squats__">Приседания</string>
+    <string name="t_plank_hold">Удержание планки</string>
+    <string name="dead_bug">Мертвый жук</string>
+    <string name="skipping__">Прыжки через скакалку</string>
+    <string name="heavy_squats">Тяжелые приседания</string>
+    <string name="split_jump_">Раздельные прыжки</string>
+    <string name="by_team_8">От команды 8</string>
+    <string name="register">Регистрация</string>
+    <string name="name">Имя</string>
+    <string name="contact">Контакт</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="already_have_account">Уже есть аккаунт?</string>
+    <string name="try_out">Попробуйте:</string>
+    <string name="exercise">упражнение</string>
+    <string name="tips">Советы</string>
+    <string name="diet">Диета</string>
+    <string name="music">Музыка</string>
+    <string name="bmi">ИМТ</string>
+    <string name="gym_workout">Тренировка в зале</string>
+    <string name="_0">0</string>
+    <string name="steps">шагов</string>
+    <string name="create_new_account">Создать новый аккаунт?</string>
+    <string name="profile_picture">фото профиля</string>
+    <string name="member">Участник</string>
+    <string name="_60">60</string>
+    <string name="weight_kg">Вес(кг)</string>
+    <string name="_172">172</string>
+    <string name="height_cm">Рост(см)</string>
+    <string name="full_name">Полное имя</string>
+    <string name="update">ОБНОВИТЬ</string>
+    <string name="sign_out">Выход</string>
+    <string name="press_back">Нажмите снова Назад, чтобы выйти</string>
+    <string name="no_sensor">СЕНСОР НЕ НАЙДЕН</string>
+    <string name="spotify">Перенаправление на Spotify!</string>
+    <string name="invalidEmail">Введите действительный адрес электронной почты</string>
+    <string name="invalidPassword">Длина пароля должна быть не менее 6 символов</string>
+    <string name="invalidName">Имя не должно быть пустым</string>
+    <string name="invalidMobile">Введите действительный номер мобильного телефона</string>
+    <string name="registrationProcessing">Подождите, пока идет регистрация...</string>
+    <string name="registration">Регистрация</string>
+    <string name="success">Успех</string>
+    <string name="registrationSuccessful">Регистрация успешно завершена</string>
+    <string name="signed_out">Вы успешно вышли из системы</string>
+    <string name="profile_updated">Профиль обновлен</string>
+    <string name="logged_in">Вход выполнен успешно</string>
+    <string name="invalid_credentials">Неверные учетные данные</string>
+    <string name="opening_youtube">Открывается Youtube!</string>
+    <string name="gender_select">Сначала выберите свой пол</string>
+    <string name="height_select">Сначала выберите свой рост</string>
+    <string name="incorrect_age">Неверный возраст</string>
+    <string name="incorrect_weight">Неверный вес</string>
+    <string name="severely_thin">Тяжелая худоба</string>
+    <string name="moderately_thin">Умеренная худоба</string>
+    <string name="mildly_thin">Легкая худоба</string>
+    <string name="normal">Норма</string>
+    <string name="overweight">Избыточный вес</string>
+    <string name="obeseC1">Ожирение I степени</string>
+    <string name="obeseC2">Ожирение II степени</string>
+    <string name="gender_categ">пол</string>
+    <string name="wt">вес</string>
+    <string name="ht">рост</string>
+    <string name="diet_page">https://www.sport-express.ru/zozh/reviews/7-uprazhneniy-dlya-domashnih-trenirovok-kotorye-pomogut-ostavatsya-v-otlichnoy-forme-kak-ih-vypolnyat-i-kak-pravilno-pitatsya-1896286/</string>
+    <string name="pushup_url">https://www.youtube.com/watch?v=rruHM_sB2Hc</string>
+    <string name="pullups_url">https://www.youtube.com/watch?v=iBtL9nX2qOs</string>
+    <string name="squats_url">https://www.youtube.com/watch?v=U3HlEF_E9fo</string>
+    <string name="t_plank_url">https://www.youtube.com/watch?v=BQu26ABuVS0</string>
+    <string name="dead_bug_url">https://www.youtube.com/watch?v=8my1MTa0CWw</string>
+    <string name="skipping_url">https://www.youtube.com/watch?v=FJmRQ5iTXKE</string>
+    <string name="heavysquat_url">https://www.youtube.com/watch?v=sdeQjm7avi8</string>
+    <string name="split_jump_url">https://www.youtube.com/watch?v=nN-fkSOL1ds</string>
+    <string name="spotify_url">https://music.yandex.ru/</string>
+    <string name="enter_valid_email">Введите действительный адрес электронной почты</string>
+    <string name="enter_valid_pwd">Введите действительный пароль</string>
+    <string name="wait_till_login">Пожалуйста, подождите до входа в систему...</string>
+    <string name="logged_in_success">Вход выполнен успешно</string>
+    <string name="consumer">потребитель</string>
+    <string name="email_id">электронная почта</string>
+    <string name="enter_vemail">Введите действительный адрес электронной почты</string>
+    <string name="enter_6_pwd">Введите действительный пароль длиной 6 символов</string>
+    <string name="name_not_empty">Имя не должно быть пустым</string>
+    <string name="valid_mob_num">Введите действительный номер мобильного телефона</string>
+    <string name="wait_till_reg">Пожалуйста, подождите до завершения регистрации...</string>
+    <string name="your_name">имя</string>
+    <string name="l_contact">контакт</string>
+    <string name="tips_url">https://www.nytimes.com/guides/well/strength-training-plyometrics</string>
+    <string name="l_gender">пол</string>
+    <string name="l_height">рост</string>
+    <string name="l_weight">вес</string>
+    <string name="l_age">возраст</string>
+
+
+</resources>
